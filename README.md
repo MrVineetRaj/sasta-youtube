@@ -1,6 +1,6 @@
 # Master Ji Assignment 2
 
-## Sasta Youtube [Demo](https://sastayoutube.unknownbug.tech)
+## Sasta Youtube [Demo](https://sastayoutube.unknownbug.tech/)
 
 A simple projects leveraging api from open source API [FreeAPI](https://freeapi.hashnode.space/api-guide/apireference/getYoutubeVideos) by fetching api [endpoint](https://api.freeapi.app/api/v1/public/youtube/videos) and displaying youtube videos on the webpage in similar way that youtube list it's videos.
 

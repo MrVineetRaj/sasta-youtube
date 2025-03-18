@@ -1,5 +1,5 @@
 const FREE_API_ENDPOINT =
-  "http://api.freeapi.app/api/v1/public/youtube/videos?limit=10";
+  "https://api.freeapi.app/api/v1/public/youtube/videos?limit=10";
 const OPTIONS = { method: "GET", headers: { accept: "application/json" } };
 
 const queryInputField = document.getElementById("query-input-field");
